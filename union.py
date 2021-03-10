@@ -1,4 +1,3 @@
-#the arrays are sorted
 def Union(a,sizeA,b,sizeB):
     U=[]
     i=j=0
